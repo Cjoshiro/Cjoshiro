@@ -1,6 +1,6 @@
 ## Hi, I'm CJ! 👋
 
-I'm a fourth-year Computer Science and Mathematics major with an emphasis in data science at Santa Clara University. I also conduct research in AI for social good and sustainability, with a focus on reinforcement learning, NLP, and data-driven modeling. I build machine learning systems that help us understand social dynamics, support sustainable decision-making, and develop responsible AI tools.
+I'm a fourth-year Computer Science and Mathematics major with an emphasis in data science at Santa Clara University. I also do research in AI for social good and sustainability, with a focus on reinforcement learning, NLP, and data-driven modeling. I build machine learning systems that help us understand social dynamics, support sustainable decision-making, and develop responsible AI tools.
 
 <!--
 **Cjoshiro/Cjoshiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
